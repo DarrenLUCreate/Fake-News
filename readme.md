@@ -25,6 +25,6 @@
     還有台灣民眾大多透過新聞而得到何種的情感取向。
     
 
-![](img/FakeNews_IMG.png)
+![](img/Fake_News_IMG.png)
 
 web: https://darrenlucreate.github.io/Fake-News/
