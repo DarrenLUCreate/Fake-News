@@ -23,6 +23,8 @@
     我們利用了NTU以及元智大學的情感詞庫對於以上兩個資料及做情感分析
     以延伸討論中國假新聞的情感態度，和背後的目的
     還有台灣民眾大多透過新聞而得到何種的情感取向。
-  ![]()
+    
+    
+  ![](img/Fake News_IMG.png)
 
 web: https://darrenlucreate.github.io/Fake-News/
